@@ -3,7 +3,7 @@ LDA Topic Modeling of PERC  Papers
 
 This project focuses on using Latent Dirichlet Allocation to thematically analyze the physics education research literature, in the form of the PERC Physics Education Research Conference (PERC) Proceedings 2001-2018. 
 
-The code in this repository is described in a paper submitted for publication: *Tor Ole B. Odden and Alessandro Marin, Marcos D. Caballero*, **Thematic Analysis of 18 Years of PERC Proceedings using Natural Language Processing** (2020). 
+The code in this repository is described in a paper submitted for publication: *Tor Ole B. Odden and Alessandro Marin, Marcos D. Caballero*, **Thematic Analysis of 18 Years of PERC Proceedings using Natural Language Processing** (2020). The paper is available in arXiv: [arxiv.org/abs/2001.10753](https://arxiv.org/abs/2001.10753).
 
 
 To run the main notebook [PERC_TopicModeling.ipynb](https://github.com/uio-ccse/PERC_TopicModel/blob/master/PERC_TopicModeling.ipynb) install the required packages:
