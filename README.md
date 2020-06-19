@@ -14,4 +14,4 @@ The required packages include [Gensim](https://radimrehurek.com/gensim/) (unsupe
 
 
 
-Questions can be directed to [Tor Ole Odden](t.o.odden@fys.uio.no)
+Questions can be directed to [Tor Ole Odden](https://www.mn.uio.no/fysikk/english/people/aca/Tor%20Ole%20Odden/)
